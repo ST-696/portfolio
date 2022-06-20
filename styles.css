@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: sans-serif;
-    padding: 100px;
+    padding: 20px;
     background-color: #CED89E;
 }
 
@@ -19,4 +19,11 @@ img {
     font-size: 2rem;
     line-height: 1.5;
     letter-spacing: 10px;
+}
+
+hr {
+    border-top: 3px solid #000;
+    width: 20%;
+    opacity: 0.3;
+    margin: 20px auto;
 }
